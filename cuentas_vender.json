@@ -1,0 +1,160 @@
+{
+  "cuentas": [
+    {
+      "id": 0,
+      "tipo": "1",
+      "caracteristicas": ["Juegos", 23],
+      "precio": 32000
+    },
+    {
+      "id": 1,
+      "tipo": "2",
+      "caracteristicas": ["Faceit", 10],
+      "precio": 50000
+    },
+    {
+      "id": 2,
+      "tipo": "3",
+      "caracteristicas": ["Juegos", 50],
+      "precio": 25000
+    },
+    {
+      "id": 3,
+      "tipo": "4",
+      "caracteristicas": ["Suscripciones", 7],
+      "precio": 10000
+    },
+    {
+      "id": 4,
+      "tipo": "5",
+      "caracteristicas": ["Suscripciones", 9],
+      "precio": 10000
+    },
+    {
+      "id": 5,
+      "tipo": "1",
+      "caracteristicas": ["Nivel Cuenta", 200],
+      "precio": 25000
+    },
+    {
+      "id": 6,
+      "tipo": "1",
+      "caracteristicas": ["Juegos", 23],
+      "precio": 32000
+    },
+    {
+      "id": 7,
+      "tipo": "2",
+      "caracteristicas": ["Faceit", 10],
+      "precio": 50000
+    },
+    {
+      "id": 8,
+      "tipo": "3",
+      "caracteristicas": ["Juegos", 50],
+      "precio": 25000
+    },
+    {
+      "id": 9,
+      "tipo": "4",
+      "caracteristicas": ["Suscripciones", 7],
+      "precio": 10000
+    },
+    {
+      "id": 10,
+      "tipo": "5",
+      "caracteristicas": ["Suscripciones", 9],
+      "precio": 10000
+    },
+    {
+      "id": 11,
+      "tipo": "1",
+      "caracteristicas": ["Nivel Cuenta", 200],
+      "precio": 25000
+    },
+    {
+      "id": 12,
+      "tipo": "1",
+      "caracteristicas": ["Juegos", 23],
+      "precio": 32000
+    },
+        {
+      "id": 13,
+      "tipo": "9",
+      "caracteristicas": ["Juegos", 50],
+      "precio": 25000
+    },
+        {
+      "id": 14,
+      "tipo": "8",
+      "caracteristicas": ["Juegos", 5],
+      "precio": 2000
+    },
+        {
+      "id": 15,
+      "tipo": "7",
+      "caracteristicas": ["Juegos", 85],
+      "precio": 50000
+    },
+        {
+      "id": 16,
+      "tipo": "6",
+      "caracteristicas": ["Suscripciones",12],
+      "precio": 32000
+    },
+        {
+      "id": 17,
+      "tipo": "9",
+      "caracteristicas": ["Juegos", 25],
+      "precio": 12500
+    },
+        {
+      "id": 18,
+      "tipo": "8",
+      "caracteristicas": ["Juegos", 41],
+      "precio": 20000
+    },
+        {
+      "id": 19,
+      "tipo": "7",
+      "caracteristicas": ["Juegos",  32],
+      "precio": 50000
+    },
+        {
+      "id": 20,
+      "tipo": "2",
+      "caracteristicas": ["MM", 16],
+      "precio": 15000
+    },
+        {
+      "id": 21,
+      "tipo": "2",
+      "caracteristicas": ["MM", 18],
+      "precio": 17000
+    },
+        {
+      "id": 22,
+      "tipo": "2",
+      "caracteristicas": ["GC", 17],
+      "precio": 20000
+    },
+        {
+      "id": 23,
+      "tipo": "2",
+      "caracteristicas": ["GC", 20],
+      "precio": 25000
+    },
+        {
+      "id": 24,
+      "tipo": "1",
+      "caracteristicas": ["Nivel Cuenta", 700],
+      "precio": 100000
+    },
+    {
+      "id": 25,
+      "tipo": "5",
+      "caracteristicas": ["Juegos", 2000],
+      "precio": 300000
+    }
+  ]
+}
